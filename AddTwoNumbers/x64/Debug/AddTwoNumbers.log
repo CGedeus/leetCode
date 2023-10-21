@@ -1,0 +1,3 @@
+﻿  AddTwoNumbers.cpp
+C:\Users\cgede\source\repos\AddTwoNumbers\AddTwoNumbers.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AddTwoNumbers.vcxproj -> C:\Users\cgede\source\repos\AddTwoNumbers\x64\Debug\AddTwoNumbers.exe
