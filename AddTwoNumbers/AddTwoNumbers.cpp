@@ -14,7 +14,7 @@
 #include <iostream>
 #include <ctime>
 
-#define SIZE 5
+#define SIZE 100
 
 using namespace std;
 
